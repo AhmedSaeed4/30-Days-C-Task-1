@@ -8,5 +8,5 @@ It has the best model in the world for multimodal understanding and has the most
 It’s much better at processing distinct inputs text, video, audio, and images simultaneously, rather than treating them as separate steps. This allows it to reason across different formats in real-time. For example, in this (http://blog.google/products/gemini/gemini-3/#build-anything) article mentions you could show it a video of you playing pickleball and it can analyze your form to give you coaching tips, or it can decipher handwritten recipes in different languages and turn them into a digital cookbook.
 
 ## 4. Name any two developer tools introduced with Gemini 3.0.
-- Google Antigravity
-- GenUI
+- Google Antigravity - A new AI-focused IDE that gives agents their own internal browser and terminal. This allows them to plan, code, and actually test web applications independently, rather than just writing code snippets
+- GenUI - A tool that lets the AI generate interactive widgets and visual layouts instantly.
